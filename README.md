@@ -127,5 +127,6 @@ scheduler.resume(task_1)
 
 # Stop a task
 scheduler.stop(task_2)
+```
 
 This README provides an overview of the TaskForge scheduler, usage instructions, and examples. Let me know if you need further customization or any additional information!
