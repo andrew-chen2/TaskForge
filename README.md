@@ -19,7 +19,7 @@ TaskForge is available as a Python package. To install it, clone this repository
 
 ```bash
 pip install taskforge
-
+```
 
 ## Usage
 
@@ -127,17 +127,5 @@ scheduler.resume(task_1)
 
 # Stop a task
 scheduler.stop(task_2)
-```
-
-## TODO
-
-- Implement **Timeouts** for task execution.
-- **Priority** management for tasks.
-- Support for **Groups** (already available for scheduling and running tasks).
-  
-## License
-
-MIT License. See LICENSE for details.
-```
 
 This README provides an overview of the TaskForge scheduler, usage instructions, and examples. Let me know if you need further customization or any additional information!
