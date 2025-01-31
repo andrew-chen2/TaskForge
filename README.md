@@ -1,6 +1,4 @@
-Here's a README file for the TaskForge scheduler:
 
-```markdown
 # TaskForge
 
 TaskForge is a decorator-based task scheduler designed for periodic and delayed task execution. It provides an easy way to schedule and manage tasks with support for pausing, resuming, stopping, and dynamically editing tasks. You can also group tasks together and apply time-based actions such as intervals, delays, and jitter.
@@ -21,7 +19,7 @@ TaskForge is available as a Python package. To install it, clone this repository
 
 ```bash
 pip install taskforge
-```
+
 
 ## Usage
 
